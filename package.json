@@ -1,0 +1,31 @@
+{
+  "name": "string-filter-list",
+  "version": "0.1.0",
+  "description": "check if string is within a list.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/limcra/string-filter-list.git"
+  },
+  "keywords": [
+    "string",
+    "regex",
+    "search"
+  ],
+  "author": {
+    "name": "lmicra"
+  },
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/lmicra/string-filter-list/issues"
+  },
+  "homepage": "https://github.com/lmicra/string-filter-list",
+  "_id": "string-filter-list@0.1.0",
+  "maintainers": [
+    {
+      "name": "lmicra",
+      "email": "lmikra@gmail.com"
+    }
+  ],
+  "directories": {}
+}
