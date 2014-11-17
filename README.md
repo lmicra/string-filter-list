@@ -14,7 +14,7 @@ Usage
 ### Basic usage
 
 ```javascript
-var sfl = require('./string-filter-list');
+var sfl = require('string-filter-list');
 
 var sf1 = new sfl(sfl.EntryBehaviours.BLOCK_NEW_ENTRIES),
     sf2 = new sfl(sfl.EntryBehaviours.ADD_NEW_ENTRIES),
@@ -82,7 +82,7 @@ Configuration File Format
 ### Configuration file reading
 
 ```javascript
-var sfl = require('./string-filter-list');
+var sfl = require('string-filter-list');
 
 var sf4 = new sfl(sfl.EntryBehaviours.IGNORE_NEW_ENTRIES);
 sf4.parse('sfl01.conf', function(err) {
