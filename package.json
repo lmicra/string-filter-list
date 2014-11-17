@@ -1,6 +1,6 @@
 {
   "name": "string-filter-list",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "check if string is within a list.",
   "main": "index.js",
   "repository": {
@@ -20,7 +20,7 @@
     "url": "https://github.com/lmicra/string-filter-list/issues"
   },
   "homepage": "https://github.com/lmicra/string-filter-list",
-  "_id": "string-filter-list@0.1.0",
+  "_id": "string-filter-list@0.1.1",
   "maintainers": [
     {
       "name": "lmicra",
