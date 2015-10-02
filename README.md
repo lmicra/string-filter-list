@@ -46,9 +46,9 @@ console.log();
 
 ```json
 {
-    BLOCK_NEW_ENTRIES: 1,
-    ADD_NEW_ENTRIES: 2,
-    IGNORE_NEW_ENTRIES: 3
+    "BLOCK_NEW_ENTRIES": 1,
+    "ADD_NEW_ENTRIES": 2,
+    "IGNORE_NEW_ENTRIES": 3
 }
 ```
 
@@ -56,10 +56,10 @@ console.log();
 
 ```json
 {
-    BLACKLISTED: 1,
-    WHITELISTED: 2,
-    IGNORED: 3,
-    NEW_ENTRY: 4
+    "BLACKLISTED": 1,
+    "WHITELISTED": 2,
+    "IGNORED": 3,
+    "NEW_ENTRY": 4
 }
 ```
 
